@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Valerii Korobeinikov
 
-<!--
-**vkgeorgia/vkgeorgia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enterprise Architect who speaks business, not just tech.
 
-Here are some ideas to get you started:
+I work with senior business and technology leaders on high-stakes technology decisions — where the consequences are financial, operational, and strategic, not just technical. Starting from business priorities, I align IT strategy, project portfolio, and spend so that technology serves the business — and bring order when the path forward is unclear.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**
+- Independent EA advisory practice. Engagement formats: fixed-scope project (6–16 weeks), fractional or embedded advisor (months), expert due diligence or second opinion (days to weeks).
+- Founder of [Transitrix](https://transitrix.com) — open methodology and tooling for treating enterprise architecture as a decision discipline.
+
+**Where to find me**
+- Site: [vkgeorgia.github.io](https://vkgeorgia.github.io)
+- LinkedIn: [valeriikorobeinikov](https://www.linkedin.com/in/valeriikorobeinikov/)
+- Book a 30-min intro call: [calendar.app.google](https://calendar.app.google/YwmXZytfSQ2qWX4Z7)
